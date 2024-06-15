@@ -22,13 +22,7 @@
     <img src="https://skillicons.dev/icons?i=linux,windows,git,kubernetes,docker,anaconda,androidstudio,aws,py,r,c,cpp,html,css,js,java,discord,ai,linux,matlab,tensorflow,pytorch,opencv,raspberrypi,arduino" />
   </a>
 </p>
-<!-- <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/alexandresanlim'>sponsor me ❤️</a>
-</p>
 
-<!-- <details align='center'>
-  <summary>:zap: My workspace specs</summary>
-</details>-->
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:jpscardoso@ufpa.br'>jpscardoso@ufpa.br</a>
