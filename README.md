@@ -3,7 +3,7 @@
 </div> 
 
 <p align="center">
-   <i>““It has been my philosophy of life that difficulties vanish when faced boldly.””</i>
+   <i>“It has been my philosophy of life that difficulties vanish when faced boldly.”</i>
    <br/>
    <b>Isaac Asimov<b/>
 </p>
