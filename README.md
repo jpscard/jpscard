@@ -35,13 +35,15 @@
 
 <br/>
 <div align="right">
-   <img align="right" width="400px" alt="GIF" src="https://github.com/lucasmatnibezerra/lucasmatnibezerra/blob/main/preview.gif"/>
+   <img align="right" width="400px" alt="GIF" src="https://github.com/jpscard/jpscard/blob/main/ai.gif"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpscard&color=blue" alt="Profile views" /> </p>
 
-- Full Stack Developer & Researcher at LASSE
-- i'm currently working at R&D Nucleus in Telecommunications, Automation and Electronics (LASSE)
+ - AI Researcher at Laboratory of AI (LIA) -UFPA and Sustainable Systems Analysis laboratory ( LAss ) at Embrapa Eastern Amazon
+ - Full Stack Developer
+ - Mobile Developer React and Android
+ - Ai engineer | Computer vision engineer | Machine learning engineer
 <br><br>
 
 <!--## 🛠 &nbsp;Tech Stack
