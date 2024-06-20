@@ -1,7 +1,12 @@
-<h1 align='center'>
-  Hi there 👋 I'm João 👨‍💻
-</h1>
+<div align="center" >
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+There!+%F0%9F%91%8B+I'm+Joao,+welcome!" alt="Typing SVG" /></a>
+</div> 
 
+<p align="center">
+   <i>“Mistakes are also important to me. I don’t cross them out of my life, or memory. And I never blame others for them.”</i>
+   <br/>
+   <b>Andrzej Sapkowski, The Witcher<b/>
+</p>
 <p align='center'>
   A computer engineer and math teacher apassionate for AI, from Belém-PA, Brazil.
 </p>  
@@ -16,10 +21,10 @@
 </p>
 
 <p align='center'>
-  💻 Some tools and hard skills<br/><br/>
+  💻 Tech Stackss<br/><br/>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,git,kubernetes,docker,anaconda,androidstudio,aws,py,r,c,cpp,html,css,js,java,discord,ai,linux,matlab,tensorflow,pytorch,opencv,raspberrypi,arduino" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,git,kubernetes,docker,anaconda,androidstudio,aws,py,r,c,cpp,html,css,js,react,tailwind,git,github,markdown,java,discord,linux,matlab,tensorflow,pytorch,opencv,raspberrypi,arduino" />
   </a>
 </p>
 
@@ -28,11 +33,44 @@
   📫 How to reach me: <a href='mailto:jpscardoso@ufpa.br'>jpscardoso@ufpa.br</a>
 </p>
 
+<br/>
+<div align="right">
+   <img align="right" width="400px" alt="GIF" src="https://github.com/lucasmatnibezerra/lucasmatnibezerra/blob/main/preview.gif"/>
+</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpscard&color=blue" alt="Profile views" /> </p>
+
+- Full Stack Developer & Researcher at LASSE
+- i'm currently working at R&D Nucleus in Telecommunications, Automation and Electronics (LASSE)
+<br><br>
+
+<!--## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+-->
+
+<p align="left">
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmatnibezerra&layout=compact&theme=github_dark" alt="lucasmatni's most languages"/>
+</p>
+
+<br><br>
 
 <p align='center'>
   <a href='https://www.chess.com/member/jpscard'>♟Playing Chess
 <img align='center' src='https://img.shields.io/badge/dynamic/json?label=rating&query=%24.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Falexandresanlim%2Fstats'/></a>
   </p>
+
 
 
 <details>
