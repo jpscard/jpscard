@@ -3,9 +3,9 @@
 </div> 
 
 <p align="center">
-   <i>“Mistakes are also important to me. I don’t cross them out of my life, or memory. And I never blame others for them.”</i>
+   <i>““It has been my philosophy of life that difficulties vanish when faced boldly.””</i>
    <br/>
-   <b>Andrzej Sapkowski, The Witcher<b/>
+   <b>Isaac Asimov<b/>
 </p>
 <p align='center'>
   A computer engineer and math teacher apassionate for AI, from Belém-PA, Brazil.
