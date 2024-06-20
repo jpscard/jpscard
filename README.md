@@ -63,7 +63,7 @@
 -->
 
 <p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljpscard&layout=compact&theme=github_dark" alt="jpscard's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpscard&layout=compact&theme=github_dark" alt="jpscard's most languages"/>
 </p>
 
 <br><br>
