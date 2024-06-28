@@ -22,7 +22,7 @@
   💻 Tech Stackss<br/><br/>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,git,kubernetes,docker,anaconda,androidstudio,aws,py,r,c,cpp,html,css,js,react,tailwind,git,github,markdown,java,discord,linux,matlab,tensorflow,pytorch,opencv,raspberrypi,arduino" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,git,kubernetes,docker,anaconda,androidstudio,aws,py,r,c,cpp,html,css,js,react,tailwind,github,markdown,java,discord,linux,matlab,tensorflow,pytorch,opencv,raspberrypi,arduino" />
   </a>
 </p>
 
